@@ -29,4 +29,8 @@ The main features are:
 - Separation of concern in a multi-stage template process, first layout then data, with delayed execution for data.
 - Template families (different related layouts) and varieties (same layouts with different data/purpose).
 
-From 🇲🇽 with ❤.
+*****
+
+This software is protected by an [MIT License](LICENSE).
+
+From 🇲🇽 with ❤
